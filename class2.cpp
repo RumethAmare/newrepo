@@ -14,6 +14,7 @@ public:
 void Student::getmarks(int marks)
 {
     marks = no;
+    //hi
 }
 
 float Student::getavg();
