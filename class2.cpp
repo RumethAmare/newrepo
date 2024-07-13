@@ -18,7 +18,7 @@ void Student::getmarks(int marks)
 
 float Student::getavg();
 {
-    return marks / 
+    return marks;
 }
 
 
